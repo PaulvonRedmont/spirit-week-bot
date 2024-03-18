@@ -1,6 +1,9 @@
 # spirit-week-bot
 
-The spirit-week-bot is a Python script that continuously captures screenshots of your primary monitor every 5 seconds, searching for a llama image. When the program detects a llama on your screen, it notifies you, saves the screenshot with a green box drawn around the llama to your downloads folder, and displays the notification.
+The spirit-week-bot is a Python script that continuously captures screenshots of your primary monitor every 5 seconds, searching for a llama image. When the program detects a llama on your screen, it notifies you, saves the screenshot with a green box drawn around the llama to your downloads folder, and displays the notification. Don't forget to download this image as the target image for the program:
+
+<img width="61" alt="llama" src="https://github.com/PaulvonRedmont/spirit-week-bot/assets/146851640/47c367c5-2c46-4154-90b6-a590cbbd9e24">
+
 
 ## How it Works
 
