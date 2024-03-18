@@ -32,3 +32,6 @@ Make sure to install the following libraries:
 
 3. Run the script using Python:
 
+## License
+
+This project is licensed under the GNU General Public License (GPL), Version 3, dated 29 June 2007. You can find a copy of the license in the [LICENSE](LICENSE) file included with the project.
