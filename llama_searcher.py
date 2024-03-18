@@ -16,7 +16,7 @@ def find_image_on_screen(screenshot, template):
     result = cv2.matchTemplate(screenshot_gray, template_gray, cv2.TM_CCOEFF_NORMED)
 
     # Define threshold and locate matches
-    threshold = 0.99
+    threshold = 0.8
     locations = np.where(result >= threshold)
     matches = list(zip(*locations[::-1]))
 
